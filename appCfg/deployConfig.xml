@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Important Note: Please Configure ALL Domain Value as HTTP Protocol -->
+<deployCfgList>
+	<deployCfg>
+		<envName>HK Env 142</envName>
+		<envDomain>{domainName}</envDomain>
+	</deployCfg>
+	<deployCfg>
+		<envName>HK Env 263</envName>
+		<envDomain>{domainName}</envDomain>
+	</deployCfg>
+	<deployCfg>
+		<envName>HK Env 461</envName>
+		<envDomain>{domainName}</envDomain>
+	</deployCfg>
+	<deployCfg>
+		<envName>HK Env 420</envName>
+		<envDomain>{domainName}</envDomain>
+	</deployCfg>
+</deployCfgList>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entityListConfig>
+	<entityConfig>
+		<version>1.5.13 - UAT</version>
+		<platformConfigs>
+			<platfrom>
+				<name>Android</name>
+				<deviceConfigs>
+					<deviceConfig>
+						<devName>Android</devName>
+						<configUrl>{AndrodCfgUrl}</configUrl>
+					</deviceConfig>
+					<deviceConfig>
+						<devName>Android Tablet</devName>
+						<configUrl>{AndrodTabletCfgUrl}</configUrl>
+					</deviceConfig>
+				</deviceConfigs>
+			</platfrom>
+			
+			<platfrom>
+				<name>iOS</name>
+				<deviceConfigs>
+					<deviceConfig>
+						<devName>iPhone</devName>
+						<configUrl>{iPhoneCfgUrl}</configUrl>
+					</deviceConfig>
+					<deviceConfig>
+						<devName>iPad</devName>
+						<configUrl>{iPadCfgUrl}</configUrl>
+					</deviceConfig>
+				</deviceConfigs>
+			</platfrom>
+		</platformConfigs>
+	</entityConfig>
+</entityListConfig>
