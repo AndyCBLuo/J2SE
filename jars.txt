@@ -1,0 +1,11 @@
+castor-0.9.7.jar
+xerces.jar
+commons-codec-1.9.jar
+commons-configuration2-2.0.jar
+commons-lang3-3.4.jar
+commons-logging-1.2.jar
+httpclient-4.5.2.jar
+httpcore-4.4.4.jar
+httpmime-4.5.2.jar
+json-simple-1.1.1.jar
+weblaf-complete-1.29.jar
